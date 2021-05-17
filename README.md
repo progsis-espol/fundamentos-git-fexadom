@@ -88,8 +88,8 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
-## ❗📋Tarea
-* **Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!**
+## ❗📋Tarea Programación de Sistemas
+* **Cree un nuevo archivo markdown en este repositorio. ¡Hágale saber al profesor lo que aprendió y lo que aún le confunde! ¡Experimenta con diferentes estilos!**
 
 ## 📝 Optional next steps 
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
